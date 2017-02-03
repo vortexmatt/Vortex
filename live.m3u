@@ -1,295 +1,127 @@
+
 #EXTM3U
-#EXTINF:-1,UK:  Travel Channel 1
-http://185.152.64.158:15000/live/attilio/attilio/12742.ts
-#EXTINF:-1,UK: Animal Planet HD
-http://185.152.64.158:15000/live/attilio/attilio/12741.ts
-#EXTINF:-1,UK: Ary Digital
-http://185.152.64.158:15000/live/attilio/attilio/12740.ts
-#EXTINF:-1,UK: Baby TV
-http://185.152.64.158:15000/live/attilio/attilio/12739.ts
-#EXTINF:-1,UK: BBC Four UK
-http://185.152.64.158:15000/live/attilio/attilio/12738.ts
-#EXTINF:-1,UK: BBC News
-http://185.152.64.158:15000/live/attilio/attilio/12737.ts
-#EXTINF:-1,UK: BBC One HD
-http://185.152.64.158:15000/live/attilio/attilio/12736.ts
-#EXTINF:-1,UK: BBC One London
-http://185.152.64.158:15000/live/attilio/attilio/12735.ts
-#EXTINF:-1,UK: BBC One Northern Ireland
-http://185.152.64.158:15000/live/attilio/attilio/12734.ts
-#EXTINF:-1,UK: BBC One Red Button
-http://185.152.64.158:15000/live/attilio/attilio/12733.ts
-#EXTINF:-1,UK: BBC One Scotland
-http://185.152.64.158:15000/live/attilio/attilio/12732.ts
-#EXTINF:-1,UK: BBC One Wales
-http://185.152.64.158:15000/live/attilio/attilio/12731.ts
-#EXTINF:-1,UK: BBC Three HD
-http://185.152.64.158:15000/live/attilio/attilio/12730.ts
-#EXTINF:-1,UK: BBC Two HD
-http://185.152.64.158:15000/live/attilio/attilio/12729.ts
-#EXTINF:-1,UK: BBC Two Scotland
-http://185.152.64.158:15000/live/attilio/attilio/12728.ts
-#EXTINF:-1,UK: BBC World News
-http://185.152.64.158:15000/live/attilio/attilio/12727.ts
-#EXTINF:-1,UK: Bloomberg
-http://185.152.64.158:15000/live/attilio/attilio/12726.ts
-#EXTINF:-1,UK: Boomerang
-http://185.152.64.158:15000/live/attilio/attilio/12725.ts
-#EXTINF:-1,UK: Box Nation
-http://185.152.64.158:15000/live/attilio/attilio/12724.ts
-#EXTINF:-1,UK: British Eurosport
-http://185.152.64.158:15000/live/attilio/attilio/12723.ts
-#EXTINF:-1,UK: British Eurosport2
-http://185.152.64.158:15000/live/attilio/attilio/12722.ts
-#EXTINF:-1,UK: BT Sport ESPN
-http://185.152.64.158:15000/live/attilio/attilio/12721.ts
-#EXTINF:-1,UK: BT SPORTS 1 HD
-http://185.152.64.158:15000/live/attilio/attilio/12720.ts
-#EXTINF:-1,UK: BT SPORTS 2 HD
-http://185.152.64.158:15000/live/attilio/attilio/12719.ts
-#EXTINF:-1,UK: BT SPORTS EUROPE HD
-http://185.152.64.158:15000/live/attilio/attilio/12718.ts
-#EXTINF:-1,UK: Cartoon Network
-http://185.152.64.158:15000/live/attilio/attilio/12717.ts
-#EXTINF:-1,UK: Cartoonito
-http://185.152.64.158:15000/live/attilio/attilio/12716.ts
-#EXTINF:-1,UK: CBBC
-http://185.152.64.158:15000/live/attilio/attilio/12715.ts
-#EXTINF:-1,UK: CBeebies
-http://185.152.64.158:15000/live/attilio/attilio/12714.ts
-#EXTINF:-1,UK: CBS Action
-http://185.152.64.158:15000/live/attilio/attilio/12713.ts
-#EXTINF:-1,UK: CBS Drama
-http://185.152.64.158:15000/live/attilio/attilio/12712.ts
-#EXTINF:-1,UK: CBS Reality 1
-http://185.152.64.158:15000/live/attilio/attilio/12711.ts
-#EXTINF:-1,UK: Challenge
-http://185.152.64.158:15000/live/attilio/attilio/12710.ts
-#EXTINF:-1,UK: Channel 4 HD
-http://185.152.64.158:15000/live/attilio/attilio/12709.ts
-#EXTINF:-1,UK: Channel 4 UK
-http://185.152.64.158:15000/live/attilio/attilio/12708.ts
-#EXTINF:-1,UK: Channel 5
-http://185.152.64.158:15000/live/attilio/attilio/12707.ts
-#EXTINF:-1,UK: CNBC Europe
-http://185.152.64.158:15000/live/attilio/attilio/12706.ts
-#EXTINF:-1,UK: Comedy Central
-http://185.152.64.158:15000/live/attilio/attilio/12705.ts
-#EXTINF:-1,UK: Comedy Extra
-http://185.152.64.158:15000/live/attilio/attilio/12704.ts
-#EXTINF:-1,UK: Crime Investigation
-http://185.152.64.158:15000/live/attilio/attilio/12703.ts
-#EXTINF:-1,UK: Dave
-http://185.152.64.158:15000/live/attilio/attilio/12702.ts
-#EXTINF:-1,UK: DISCOVERY
-http://185.152.64.158:15000/live/attilio/attilio/12701.ts
-#EXTINF:-1,UK: Discovery History HD
-http://185.152.64.158:15000/live/attilio/attilio/12700.ts
-#EXTINF:-1,UK: Discovery Investigation
-http://185.152.64.158:15000/live/attilio/attilio/12699.ts
-#EXTINF:-1,UK: Discovery Science HD
-http://185.152.64.158:15000/live/attilio/attilio/12698.ts
-#EXTINF:-1,UK: Discovery Turbo
-http://185.152.64.158:15000/live/attilio/attilio/12697.ts
-#EXTINF:-1,UK: Disney
-http://185.152.64.158:15000/live/attilio/attilio/12696.ts
-#EXTINF:-1,UK: Disney Junior
-http://185.152.64.158:15000/live/attilio/attilio/12695.ts
-#EXTINF:-1,UK: DISNEY MOVIES
-http://185.152.64.158:15000/live/attilio/attilio/12694.ts
-#EXTINF:-1,UK: Disney XD
-http://185.152.64.158:15000/live/attilio/attilio/12693.ts
-#EXTINF:-1,UK: E! Entertainment
-http://185.152.64.158:15000/live/attilio/attilio/12692.ts
-#EXTINF:-1,UK: E4
-http://185.152.64.158:15000/live/attilio/attilio/12691.ts
-#EXTINF:-1,UK: Eden
-http://185.152.64.158:15000/live/attilio/attilio/12690.ts
-#EXTINF:-1,UK: Euro Sports 2
-http://185.152.64.158:15000/live/attilio/attilio/12689.ts
-#EXTINF:-1,UK: Euronews
-http://185.152.64.158:15000/live/attilio/attilio/12688.ts
-#EXTINF:-1,UK: Film 4
-http://185.152.64.158:15000/live/attilio/attilio/12687.ts
-#EXTINF:-1,UK: FILME 4
-http://185.152.64.158:15000/live/attilio/attilio/12686.ts
-#EXTINF:-1,UK: Fine Living Network
-http://185.152.64.158:15000/live/attilio/attilio/12685.ts
-#EXTINF:-1,UK: Food Network
-http://185.152.64.158:15000/live/attilio/attilio/12684.ts
-#EXTINF:-1,UK: Gold
-http://185.152.64.158:15000/live/attilio/attilio/12683.ts
-#EXTINF:-1,UK: Heart TV
-http://185.152.64.158:15000/live/attilio/attilio/12682.ts
-#EXTINF:-1,UK: History
-http://185.152.64.158:15000/live/attilio/attilio/12681.ts
-#EXTINF:-1,UK: HISTORY CHANNEL
-http://185.152.64.158:15000/live/attilio/attilio/12680.ts
-#EXTINF:-1,UK: Home
-http://185.152.64.158:15000/live/attilio/attilio/12679.ts
-#EXTINF:-1,UK: Horror Channel
-http://185.152.64.158:15000/live/attilio/attilio/12678.ts
-#EXTINF:-1,UK: Hum Europe
-http://185.152.64.158:15000/live/attilio/attilio/12677.ts
-#EXTINF:-1,UK: ID
-http://185.152.64.158:15000/live/attilio/attilio/12676.ts
-#EXTINF:-1,UK: ITV
-http://185.152.64.158:15000/live/attilio/attilio/12675.ts
-#EXTINF:-1,UK: ITV 1
-http://185.152.64.158:15000/live/attilio/attilio/12674.ts
-#EXTINF:-1,UK: ITV 2
-http://185.152.64.158:15000/live/attilio/attilio/12673.ts
-#EXTINF:-1,UK: ITV 3
-http://185.152.64.158:15000/live/attilio/attilio/12672.ts
-#EXTINF:-1,UK: ITV 4
-http://185.152.64.158:15000/live/attilio/attilio/12671.ts
-#EXTINF:-1,UK: ITV Be
-http://185.152.64.158:15000/live/attilio/attilio/12670.ts
-#EXTINF:-1,UK: ITV Choice
-http://185.152.64.158:15000/live/attilio/attilio/12669.ts
-#EXTINF:-1,UK: ITV Encore
-http://185.152.64.158:15000/live/attilio/attilio/12668.ts
-#EXTINF:-1,UK: ITV HD
-http://185.152.64.158:15000/live/attilio/attilio/12667.ts
-#EXTINF:-1,UK: London Live UK
-http://185.152.64.158:15000/live/attilio/attilio/12666.ts
-#EXTINF:-1,UK: More 4
-http://185.152.64.158:15000/live/attilio/attilio/12665.ts
-#EXTINF:-1,UK: Motors UK
-http://185.152.64.158:15000/live/attilio/attilio/12664.ts
-#EXTINF:-1,UK: MOVIE 4 MEN
-http://185.152.64.158:15000/live/attilio/attilio/12663.ts
-#EXTINF:-1,UK: MOVIES SHOW CASE
-http://185.152.64.158:15000/live/attilio/attilio/12662.ts
-#EXTINF:-1,UK: Movies4Men
-http://185.152.64.158:15000/live/attilio/attilio/12661.ts
-#EXTINF:-1,UK: Nat Geo Wild
-http://185.152.64.158:15000/live/attilio/attilio/12660.ts
-#EXTINF:-1,UK: National Geographic
-http://185.152.64.158:15000/live/attilio/attilio/12659.ts
-#EXTINF:-1,UK: NDTV 24x7
-http://185.152.64.158:15000/live/attilio/attilio/12658.ts
-#EXTINF:-1,UK: Nick
-http://185.152.64.158:15000/live/attilio/attilio/12657.ts
-#EXTINF:-1,UK: Nick Junior
-http://185.152.64.158:15000/live/attilio/attilio/12656.ts
-#EXTINF:-1,UK: NickToons
-http://185.152.64.158:15000/live/attilio/attilio/12655.ts
-#EXTINF:-1,UK: Pick
-http://185.152.64.158:15000/live/attilio/attilio/12654.ts
-#EXTINF:-1,UK: Premier Sports HD
-http://185.152.64.158:15000/live/attilio/attilio/12653.ts
-#EXTINF:-1,UK: Quest
-http://185.152.64.158:15000/live/attilio/attilio/12652.ts
-#EXTINF:-1,UK: Setanta Sports 1 / Premier Sports
-http://185.152.64.158:15000/live/attilio/attilio/12651.ts
-#EXTINF:-1,UK: Setanta Sports Ireland
-http://185.152.64.158:15000/live/attilio/attilio/12650.ts
-#EXTINF:-1,UK: Sky Action Movies
-http://185.152.64.158:15000/live/attilio/attilio/12649.ts
-#EXTINF:-1,UK: Sky Arts
-http://185.152.64.158:15000/live/attilio/attilio/12648.ts
-#EXTINF:-1,UK: Sky Atlantic
-http://185.152.64.158:15000/live/attilio/attilio/12647.ts
-#EXTINF:-1,UK: Sky Cinema Action & Adventure HD
-http://185.152.64.158:15000/live/attilio/attilio/12646.ts
-#EXTINF:-1,UK: Sky Cinema Comedy HD
-http://185.152.64.158:15000/live/attilio/attilio/12645.ts
-#EXTINF:-1,UK: Sky Cinema Crime & Thriller HD
-http://185.152.64.158:15000/live/attilio/attilio/12644.ts
-#EXTINF:-1,UK: Sky Cinema Disney HD
-http://185.152.64.158:15000/live/attilio/attilio/12643.ts
-#EXTINF:-1,UK: Sky Cinema Drama n Romance HD
-http://185.152.64.158:15000/live/attilio/attilio/12642.ts
-#EXTINF:-1,UK: Sky Cinema Family HD
-http://185.152.64.158:15000/live/attilio/attilio/12641.ts
-#EXTINF:-1,UK: Sky Cinema Harry Potter HD
-http://185.152.64.158:15000/live/attilio/attilio/12640.ts
-#EXTINF:-1,UK: Sky Cinema Hits HD
-http://185.152.64.158:15000/live/attilio/attilio/12639.ts
-#EXTINF:-1,UK: Sky Cinema Premiere HD
-http://185.152.64.158:15000/live/attilio/attilio/12638.ts
-#EXTINF:-1,UK: Sky Cinema SciFi & Horror HD
-http://185.152.64.158:15000/live/attilio/attilio/12637.ts
-#EXTINF:-1,UK: Sky Cinema Select HD
-http://185.152.64.158:15000/live/attilio/attilio/12636.ts
-#EXTINF:-1,UK: Sky Comedy Movies
-http://185.152.64.158:15000/live/attilio/attilio/12635.ts
-#EXTINF:-1,UK: Sky DramaRom Movies
-http://185.152.64.158:15000/live/attilio/attilio/12634.ts
-#EXTINF:-1,UK: Sky Family Movies
-http://185.152.64.158:15000/live/attilio/attilio/12633.ts
-#EXTINF:-1,UK: Sky Greats Movies
-http://185.152.64.158:15000/live/attilio/attilio/12632.ts
-#EXTINF:-1,UK: Sky Living 1 UK
-http://185.152.64.158:15000/live/attilio/attilio/12631.ts
-#EXTINF:-1,UK: Sky Movies Action HD
-http://185.152.64.158:15000/live/attilio/attilio/12630.ts
-#EXTINF:-1,UK: Sky Movies Disney
-http://185.152.64.158:15000/live/attilio/attilio/12629.ts
-#EXTINF:-1,UK: Sky Movies Drama HD
-http://185.152.64.158:15000/live/attilio/attilio/12628.ts
-#EXTINF:-1,UK: Sky Movies Family HD
-http://185.152.64.158:15000/live/attilio/attilio/12627.ts
-#EXTINF:-1,UK: Sky Movies Scifi / Horror HD
-http://185.152.64.158:15000/live/attilio/attilio/12626.ts
-#EXTINF:-1,UK: Sky Movies Select HD
-http://185.152.64.158:15000/live/attilio/attilio/12625.ts
-#EXTINF:-1,UK: SKY NATIONAL GEO
-http://185.152.64.158:15000/live/attilio/attilio/12624.ts
-#EXTINF:-1,UK: Sky News Arabia
-http://185.152.64.158:15000/live/attilio/attilio/12623.ts
-#EXTINF:-1,UK: Sky News HD
-http://185.152.64.158:15000/live/attilio/attilio/12622.ts
-#EXTINF:-1,UK: Sky ONE
-http://185.152.64.158:15000/live/attilio/attilio/12621.ts
-#EXTINF:-1,UK: Sky Premiere Movies
-http://185.152.64.158:15000/live/attilio/attilio/12620.ts
-#EXTINF:-1,UK: Sky ScFiHorror Movies
-http://185.152.64.158:15000/live/attilio/attilio/12619.ts
-#EXTINF:-1,UK: Sky Select Movies
-http://185.152.64.158:15000/live/attilio/attilio/12618.ts
-#EXTINF:-1,UK: SKY SPORTS 1 HD
-http://185.152.64.158:15000/live/attilio/attilio/12617.ts
-#EXTINF:-1,UK: SKY SPORTS 2 HD
-http://185.152.64.158:15000/live/attilio/attilio/12616.ts
-#EXTINF:-1,UK: SKY SPORTS 3 HD
-http://185.152.64.158:15000/live/attilio/attilio/12615.ts
-#EXTINF:-1,UK: SKY SPORTS 4 HD
-http://185.152.64.158:15000/live/attilio/attilio/12614.ts
-#EXTINF:-1,UK: SKY SPORTS 5 HD
-http://185.152.64.158:15000/live/attilio/attilio/12613.ts
-#EXTINF:-1,UK: SKY SPORTS F1 HD
-http://185.152.64.158:15000/live/attilio/attilio/12612.ts
-#EXTINF:-1,UK: Sky Sports News HQ
-http://185.152.64.158:15000/live/attilio/attilio/12611.ts
-#EXTINF:-1,UK: Sky Thriller
-http://185.152.64.158:15000/live/attilio/attilio/12610.ts
-#EXTINF:-1,UK: Sky Thriller Movies
-http://185.152.64.158:15000/live/attilio/attilio/12609.ts
-#EXTINF:-1,UK: Sky Two
-http://185.152.64.158:15000/live/attilio/attilio/12608.ts
-#EXTINF:-1,UK: Spike UK
-http://185.152.64.158:15000/live/attilio/attilio/12607.ts
-#EXTINF:-1,UK: SyFy
-http://185.152.64.158:15000/live/attilio/attilio/12606.ts
-#EXTINF:-1,UK: TCM
-http://185.152.64.158:15000/live/attilio/attilio/12605.ts
-#EXTINF:-1,UK: TCM  1
-http://185.152.64.158:15000/live/attilio/attilio/12604.ts
-#EXTINF:-1,UK: True Entertainment
-http://185.152.64.158:15000/live/attilio/attilio/12603.ts
-#EXTINF:-1,UK: True Movies 1 HD
-http://185.152.64.158:15000/live/attilio/attilio/12602.ts
-#EXTINF:-1,UK: True Movies 2 HD
-http://185.152.64.158:15000/live/attilio/attilio/12601.ts
-#EXTINF:-1,UK: Watch
-http://185.152.64.158:15000/live/attilio/attilio/12600.ts
-#EXTINF:-1,UK: Yesterday  1
-http://185.152.64.158:15000/live/attilio/attilio/12599.ts
-#EXTINF:-1,UK: Zing
-http://185.152.64.158:15000/live/attilio/attilio/12598.ts
-#EXTINF:-1,UK:Sky Movies Comedy HD
-http://185.152.64.158:15000/live/attilio/attilio/12597.ts
-#EXTINF:-1,UK:Sky Movies Premiere HD
-http://185.152.64.158:15000/live/attilio/attilio/12596.ts
+
+#EXTINF:-1,Diema Sport 2
+acestream://5fdd261324e5dc5a9ab1dae4f5f7eb0b17c815b7
+#EXTINF:-1,Eurosport 1
+acestream://34680e70d0d2d9522f60f93e602565434bed7337
+#EXTINF:-1,Eurosport 1 HD
+acestream://22abe274d8c9831ad6d8270f3a63283d7640335c
+#EXTINF:-1,Eurosport 2
+acestream://aba600b7976f97e41c7df68aed723a678def3011
+#EXTINF:-1,Eurosport 2 HD
+acestream://bc516b4e453eece1f28e20009c276e6a6f020c84
+#EXTINF:-1,Eurosport News 
+acestream://a96a47ffe8df5068bac8e41e602b46e83f32ed95
+#EXTINF:-1,Extreme Sports
+acestream://4075ab36ac0f132845789d72b6a5f18fa1589c2e
+#EXTINF:-1,Idman TV
+acestream://4aeadf73c7abfd8caaf7564dbefb7611803593cf
+#EXTINF:-1,Kazsport
+acestream://ae1f4846d3714d27f8b074457f6f36ed1d5f12a1
+#EXTINF:-1,Motorsport
+acestream://c8b03380b2ac11239254a7c94c3cbd2ca04cce16
+#EXTINF:-1,Olympic Channel HD
+acestream://1081f14b911b9b4b85d29b8610cd97324b4833c4
+#EXTINF:-1,Real Madrid TV
+acestream://677b613d289b71812cbee35c6948a27161a50b7f
+#EXTINF:-1,Setanta Sports + HD
+acestream://a3d6475c17fc2c7789cc45f802a9018764f0352c
+#EXTINF:-1,Setanta Sports + HD
+acestream://9733dd5598f74663e51d5bc8c9c4d2141bc6be90
+#EXTINF:-1,Setanta Sports HD 
+acestream://08f62448be44445cfbfd061747098a58850edf07
+#EXTINF:-1,Sky Sports 1
+acestream://ff7b98cb60fa045683dc15eae829d6df21423171
+#EXTINF:-1,Sky Sports News HD 
+acestream://78014697bfbb6c093d5d47d29da93b021f428a4e
+#EXTINF:-1,Sport 1 Cz
+acestream://224647f6b35f20a68f72633d588a8f208a896bcc
+#EXTINF:-1,Sport 2 Cz
+acestream://2cf97774d9d6fdfcc4584569b7dd48c041484eba
+#EXTINF:-1,Sport TV2 HD
+acestream://9d75d7e5d47d746cc10e633c7f904197bb99c3fd
+#EXTINF:-1,TSN 1
+acestream://4e5abe370e1bfa45a5d8dfb510431b662ab90225
+#EXTINF:-1,Viasat Fotball
+acestream://7dfd7ed13b3253b10b909c6218c6a20e3f3f6b5e
+#EXTINF:-1,Viasat Fotboll
+acestream://15cfe20c123b81117b08958c7469402532965df6
+#EXTINF:-1,Viasat Golf
+acestream://2f6c5a8f75ad7db7a98d0ceaef7513b2f3422257
+#EXTINF:-1,Viasat Motor
+acestream://44682f2cef0d96026851082b69bed5bf6dedcbf7
+#EXTINF:-1,Viasat Sport
+acestream://7556fafb286f035b1381d975ac2493624b9cd714
+#EXTINF:-1,Viasat Sport Baltic
+acestream://b6cc41b47dc5f25be10bfe18cbff56e079bb35e4
+#EXTINF:-1,Viasat Sport HD
+acestream://2a2720a3dad5f70b842034404efd1bb2611987d9
+#EXTINF:-1,Viasat Sport Sverige
+acestream://d2a87cccb12043603fa3c05ea0cfc1e560bbd266
+#EXTINF:-1,Беларусь 5
+acestream://421a97868cea21717296e0a97b146cd0494f995a
+#EXTINF:-1,КХЛ HD
+acestream://d103ba007f70acd235e44ab0ad4eba1e5da8b885
+#EXTINF:-1,КХЛ ТВ
+acestream://fc5e243589320031a6776c0b49e66d0434c4bab5
+#EXTINF:-1,Конный мир
+acestream://3e5574a5018c8f0211c259b2103274b27fe5a80e
+#EXTINF:-1,Конный мир HD
+acestream://46ec800a05f7e6cf51493e796177c4917e1d603a
+#EXTINF:-1,Матч ТВ
+acestream://f0972e097bbc08bc450559d2f3e5aee10fef8c38
+#EXTINF:-1,Матч ТВ HD
+acestream://c34ebefc8b1c38e19f0ee8e0b281d91886520797
+#EXTINF:-1,Матч! Арена
+acestream://4f883e4329d20f1cef396675c51e75b6fae2a5fe
+#EXTINF:-1,Матч! Арена HD
+acestream://5fb83b685ede963142128e00f2861f4d5acd0dea
+#EXTINF:-1,Матч! Боец 
+acestream://cd8f074399239b97ce59d8f2a0b09b5f021d299a
+#EXTINF:-1,Матч! Игра
+acestream://41770f3a467f165db5982bb2978bc80d0f952d7f
+#EXTINF:-1,Матч! Игра HD
+acestream://e180628b1ebae51eecbb33617e182372e1a66979
+#EXTINF:-1,Матч! Наш Спорт
+acestream://9bfd58c5c9709b0cc223703d357895b80b38f6dd
+#EXTINF:-1,Матч! Планета
+acestream://2311daedb8bb611cb6d75a03fae95be88f272846
+#EXTINF:-1,Матч! Футбол 1
+acestream://47fcc21c724adaf67cbe853ac561e4e1f1d0b1a6
+#EXTINF:-1,Матч! Футбол 1 HD
+acestream://b78a1818f39355784bc07580cb9d4695da7f85a0
+#EXTINF:-1,Матч! Футбол 1 HD Резерв 1
+acestream://7ae11c96aa9c96ac3a4232c5fd88bbf6959318f2
+#EXTINF:-1,Матч! Футбол 1 HD Резерв 2
+acestream://6d5d42d9e159229bd146bda481fa64b5b209b7af
+#EXTINF:-1,Матч! Футбол 1 HD Резерв 3
+acestream://c1ce54580e2542386a585670410dc28d953d6bc9
+#EXTINF:-1,Матч! Футбол 1 Резерв 1
+acestream://aab51b4fce9c31769494ac47e3e3fde100da4cc2
+#EXTINF:-1,Матч! Футбол 1 Резерв 2
+acestream://89b2d64267d9187cafb1331c19d113f98c88f415
+#EXTINF:-1,Матч! Футбол 1 Резерв 3
+acestream://c27886409ca0dee36fe8308376e825c5b15f95b6
+#EXTINF:-1,Матч! Футбол 2
+acestream://b0d1a403d8a05371de7ae69ab00b2abf228371d8
+#EXTINF:-1,Матч! Футбол 2 HD
+acestream://7e37dd08fdc828217630e42ef351c8ee3e9280fb
+#EXTINF:-1,Матч! Футбол 3
+acestream://fe0eb03bed4a6b2f1a70ea5e14228edf7a32ed04
+#EXTINF:-1,Матч! Футбол 3 HD
+acestream://948504a28e334aa736944d12e3eb80ace80a341d
+#EXTINF:-1,НФ HD
+acestream://90aab9b0e9df366c5e9a190ee1bef711c17c5d50
+#EXTINF:-1,Спорт 1 
+acestream://b2825d1f94b08f246051365a75ad3b9198832705
+#EXTINF:-1,Спорт 2 
+acestream://ba4b8d9b00edb078de93cc9d7030376c683dcfcd
+#EXTINF:-1,Футбол 1 
+acestream://6cda05e087d8761071086a7af7f5fa003174a026
+#EXTINF:-1,Футбол 1 HD
+acestream://f624639f338abd3c0c48a1ab1f213902feaa2566
+#EXTINF:-1,Футбол 2 
+acestream://94f9d4a4a46ef8efe81c37d927051f39613b0edb
+#EXTINF:-1,Футбол 2 HD
+acestream://4e326dbb2145c9c0a4c90b67aaf6e143d59bf38f
